@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.4.0](https://github.com/mind-vault-1/mindvault_mobile/compare/v1.3.0...v1.4.0) (2026-11-21)
+
+
+### Features
+
+* **batch-10:** fix [#325](https://github.com/mind-vault-1/mindvault_mobile/issues/325) publisher profile, [#326](https://github.com/mind-vault-1/mindvault_mobile/issues/326) bundle budgets, [#327](https://github.com/mind-vault-1/mindvault_mobile/issues/327) staged OTA and [#328](https://github.com/mind-vault-1/mindvault_mobile/issues/328) privacy notes ([#355](https://github.com/mind-vault-1/mindvault_mobile/issues/355)) ([b9e9e56](https://github.com/mind-vault-1/mindvault_mobile/commit/b9e9e5659124c748efd4f6578a1e694941a025c8))
+* **batch-17:** publish status, lease display, a11y, publisher detail ([#311](https://github.com/mind-vault-1/mindvault_mobile/issues/311)-[#314](https://github.com/mind-vault-1/mindvault_mobile/issues/314)) ([#339](https://github.com/mind-vault-1/mindvault_mobile/issues/339)) ([54c36fa](https://github.com/mind-vault-1/mindvault_mobile/commit/54c36fabaa9a0186f8d1d1175e7f3c4fb80b270f))
+* **batch-9:** catalog perf, app lock, bulk actions and runbooks ([#315](https://github.com/mind-vault-1/mindvault_mobile/issues/315)-[#318](https://github.com/mind-vault-1/mindvault_mobile/issues/318)) ([#354](https://github.com/mind-vault-1/mindvault_mobile/issues/354)) ([a9243a2](https://github.com/mind-vault-1/mindvault_mobile/commit/a9243a28070e5d798bdfd2acd25cbff335a6a661))
+* **haptics:** complete haptics on payments, scans and copy ([#344](https://github.com/mind-vault-1/mindvault_mobile/issues/344)) ([#345](https://github.com/mind-vault-1/mindvault_mobile/issues/345)) ([07288dd](https://github.com/mind-vault-1/mindvault_mobile/commit/07288dd26eb2b4c3feeaf670fce10c47c6f1b26f))
+
 ## [1.3.0](https://github.com/mind-vault-1/mindvault_mobile/compare/v1.2.0...v1.3.0) (2026-11-21)
 
 
